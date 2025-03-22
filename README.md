@@ -4,10 +4,14 @@
 📌 Tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento de software.<br>
 💡 Sempre buscando aprender e evoluir na área de tecnologia!<br>
 📫 Me conecte para trocar ideias e projetos! 😃<br>
-🚀 Áreas de Interesse:<br>
+
+##🚀 Áreas de Interesse:<br>
 -Desenvolvimento Full Stack <br>
 -Cloud Computing<br>
 -DevOps<br>
+
+##GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrevictor20&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
