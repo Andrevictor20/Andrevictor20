@@ -1,7 +1,7 @@
 # Olá, sou o André Victor!
 ## Sobre mim
 🎓 Estudante de Engenharia da Computação na Universidade Federal do Maranhão (UFMA).<br>
-📌 Tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento de software.<br>
+📌 Tenho 24 anos e sou apaixonado por tecnologia e desenvolvimento de software.<br>
 💡 Sempre buscando aprender e evoluir na área de tecnologia!<br>
 📫 Me conecte para trocar ideias e projetos! 😃<br>
 
